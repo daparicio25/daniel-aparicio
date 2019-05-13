@@ -1,5 +1,8 @@
-"Mi Primera linea" 
-"Mi Segunda linea" 
-"Mi Tercera linea" 
-"Mi Cuarta linea" 
-"Mi Quinta linea" 
+Encabezado del archivo
+
+"Primera linea" 
+"Segunda linea" 
+"Tercera linea" 
+"Cuarta linea" 
+"Quinta linea" 
+"Primera linea en mi nuevarama""Segunda linea nuevarama-1" 
