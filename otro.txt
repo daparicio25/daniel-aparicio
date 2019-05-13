@@ -1,3 +1,5 @@
+Encabezado del archivo
+
 "Primera linea" 
 "Segunda linea" 
 "Tercera linea" 
